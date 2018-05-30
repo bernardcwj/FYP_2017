@@ -16,8 +16,8 @@ from multiprocessing import Pool, Value
 from tqdm import tqdm
 
 parser = argparse.ArgumentParser()
-parser.add_argument("--input_dir", required=True, help="path to folder containing Play Store json files")
-parser.add_argument("--output_dir", help="directory to store output screenshots")
+parser.add_argument("--input_dir", required=True, help="path to folder containing Play Store json files", default='data/play_store_json')
+parser.add_argument("--output_dir", help="directory to store output screenshots", default='data')
 a = parser.parse_args()
 
 OUTPUT_DIR = "play_store_screenshots"

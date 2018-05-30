@@ -7,7 +7,7 @@ This work leverages a Tensorflow implementation of Faster RCNN, mainly based on 
 * [Tensorflow r1.2](https://www.tensorflow.org/versions/r1.2/install/)
 * [Python 3.6](https://www.python.org/downloads/)
 ```Shell
-pip install Cython opencv-python easydict numpy scipy scikit-image six lxml Pillow imgaug
+pip install Cython opencv-python easydict numpy scipy scikit-image six lxml Pillow imgaug tqdm
 ```
 
 ## Getting Started
@@ -38,28 +38,59 @@ pip install Cython opencv-python easydict numpy scipy scikit-image six lxml Pill
   ```Shell
   make clean
   make
-  cd ..
+  cd ../..
   ```
 
 ## Test with pre-trained model
-1. Download pre-trained model
-  - Android dataset with image augmentation [here](https://drive.google.com/open?id=1D324PezWrsS1tpYLIreKQhSOVdHFbwr-).
+1. Download training and test data
+  ```Shell
+  cd data
+  wget ...
+  unzip androidAUG.zip
+  cd ..
+  ```
+
+2. Create symlinks for the Android dataset
+  ```Shell
+  cd tf-faster-rcnn/data/VOCdevkit
+  ln -s  ../../../data/android_data_aug android_data
+  cd ../..
+  ```
+
+3. Download and extract pre-trained model
+  Android dataset with image augmentation [here](https://drive.google.com/open?id=1D324PezWrsS1tpYLIreKQhSOVdHFbwr-)
   ```Shell
   unzip android_aug_res101_140k.zip
-  ```
-
-2. Setup to use the pre-trained model
-  ```Shell
-  sudo cp -r android_aug_res101_140k/output .
-  sudo cp -r android_aug_res101_140k/output .
+  sudo cp -r android_aug_res101_140k/VOCdevkit data/
+  sudo cp -r android_aug_res101_140k/cache data/
   sudo cp -r android_aug_res101_140k/output .
   ```
 
+4. Test with pre-trained model
   ```Shell
-  NET=res101
-  TRAIN_IMDB=voc_2007_trainval+voc_2012_trainval
-  mkdir -p output/${NET}/${TRAIN_IMDB}
-  cd output/${NET}/${TRAIN_IMDB}
-  ln -s ../../../data/voc_2007_trainval+voc_2012_trainval ./default
-  cd ../../..
+  ./experiments/scripts/train_faster_rcnn.sh [GPU_ID] [DATASET] [NET]
+  # GPU_ID is the GPU you want to test on
+  # NET is the network arch to use
+  # DATASET is defined in train_faster_rcnn.sh
+  ./experiments/scripts/test_faster_rcnn.sh 0 android_voc res101
+  ```
+
+## Demo on app introductory screenshots crawled from Google Play App Store
+A collection of app meta-data files can be found in `data/play_store_json`. 
+
+**Note**: For demonstration purposes, the data of only ten apps are made available 
+
+1. Preprocessing
+  Crawl images from Google Play App Store
+  ```Shell
+  # By default, crawled images are saved under data/play_store_screenshots
+  cd ..
+  python tools/google-play-screenshot-scraper.py 
+  ```
+
+2. Run demo on crawled images
+  ```Shell
+  # By default, demo outputs are saved under demo_output
+  cd tf-faster-rcnn
+  ./tools/demo_modified.py
   ```

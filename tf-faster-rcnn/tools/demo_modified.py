@@ -122,10 +122,10 @@ def parse_args():
     parser = argparse.ArgumentParser(description='Tensorflow Faster R-CNN demo')
     parser.add_argument('--net', dest='demo_net', help='Network to use [vgg16 res101]',
                         choices=NETS.keys(), default='res101')
-    parser.add_argument('--dataset', dest='dataset', help='Trained dataset [pascal_voc pascal_voc_0712]',
-                        choices=DATASETS.keys(), default='pascal_voc_0712')
+    parser.add_argument('--dataset', dest='dataset', help='Trained dataset [android_voc pascal_voc pascal_voc_0712]',
+                        choices=DATASETS.keys(), default='android_voc')
     
-    parser.add_argument('--input_folder', help='Input folder to test PNG images')
+    parser.add_argument('--input_folder', help='Input folder to test PNG images', default='../data/play_store_screenshots')
 
     args = parser.parse_args()
 
@@ -184,11 +184,11 @@ if __name__ == '__main__':
     #for im_name in open("/data_raid5/weijun/android_data/ImageSets/val.txt").read().splitlines():
     num_processed = 0
     start = time.time()
-    for im_name in open("data/VOCdevkit/android_data/ImageSets/val.txt").read().splitlines():
-    #for im_name in [png for png in os.listdir(args.input_folder)]:
+    #for im_name in open("data/VOCdevkit/android_data/ImageSets/val.txt").read().splitlines():
+    for im_name in [png for png in os.listdir(args.input_folder)]:
         if num_processed == 3000:        
              break
-        im_name += ".png"
+        #im_name += ".png"
         print(im_name)
         print('~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~')
         print('Demo for data/demo/{}'.format(im_name))
