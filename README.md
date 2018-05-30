@@ -7,6 +7,6 @@ This work leverages a Tensorflow implementation of Faster RCNN, mainly based on 
 * [Tensorflow r1.2](https://www.tensorflow.org/versions/r1.2/install/)
 * [Python 3.6](https://www.python.org/downloads/)
 ```bash
-pip install Cython opencv-python easydict numpy scipy scikit-image  six lxml Pillow imgaug
+pip install Cython opencv-python easydict numpy scipy scikit-image six lxml Pillow imgaug
 ```
 
