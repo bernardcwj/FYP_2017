@@ -13,7 +13,7 @@ pip install Cython opencv-python easydict numpy scipy scikit-image six lxml Pill
 ## Getting Started
 1. Clone the repository
   ```Shell
-  git clone 
+  git clone https://github.com/bernardcwj/FYP_2017.git
   ```
 
 2. Update your -arch in setup script to match your GPU
