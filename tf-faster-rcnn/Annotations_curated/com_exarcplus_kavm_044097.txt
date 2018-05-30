@@ -1,0 +1,104 @@
+[
+   {
+      "coordinates": {
+         "from": [
+            22.0,
+            604.0
+         ],
+         "to": [
+            484.0,
+            664.0
+         ]
+      },
+      "dimensions": {
+         "height": 60.0,
+         "width": 462.0
+      },
+      "widget_class": "Button"
+   },
+   {
+      "coordinates": {
+         "from": [
+            6.0,
+            148.0
+         ],
+         "to": [
+            492.0,
+            198.0
+         ]
+      },
+      "dimensions": {
+         "height": 50.0,
+         "width": 486.0
+      },
+      "widget_class": "EditText"
+   },
+   {
+      "coordinates": {
+         "from": [
+            6.0,
+            226.0
+         ],
+         "to": [
+            494.0,
+            283.0
+         ]
+      },
+      "dimensions": {
+         "height": 57.0,
+         "width": 488.0
+      },
+      "widget_class": "EditText"
+   },
+   {
+      "coordinates": {
+         "from": [
+            6.0,
+            309.0
+         ],
+         "to": [
+            493.0,
+            360.0
+         ]
+      },
+      "dimensions": {
+         "height": 51.0,
+         "width": 487.0
+      },
+      "widget_class": "EditText"
+   },
+   {
+      "coordinates": {
+         "from": [
+            6.0,
+            417.0
+         ],
+         "to": [
+            497.0,
+            462.0
+         ]
+      },
+      "dimensions": {
+         "height": 45.0,
+         "width": 491.0
+      },
+      "widget_class": "EditText"
+   },
+   {
+      "coordinates": {
+         "from": [
+            5.0,
+            485.0
+         ],
+         "to": [
+            499.0,
+            542.0
+         ]
+      },
+      "dimensions": {
+         "height": 57.0,
+         "width": 494.0
+      },
+      "widget_class": "EditText"
+   }
+]

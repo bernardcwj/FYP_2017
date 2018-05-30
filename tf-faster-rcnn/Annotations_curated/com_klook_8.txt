@@ -1,0 +1,121 @@
+[
+   {
+      "coordinates": {
+         "from": [
+            104.0,
+            407.0
+         ],
+         "to": [
+            179.0,
+            480.0
+         ]
+      },
+      "dimensions": {
+         "height": 73.0,
+         "width": 75.0
+      },
+      "widget_class": "ImageButton"
+   },
+   {
+      "coordinates": {
+         "from": [
+            527.0,
+            407.0
+         ],
+         "to": [
+            599.0,
+            487.0
+         ]
+      },
+      "dimensions": {
+         "height": 80.0,
+         "width": 72.0
+      },
+      "widget_class": "ImageButton"
+   },
+   {
+      "coordinates": {
+         "from": [
+            307.0,
+            559.0
+         ],
+         "to": [
+            399.0,
+            650.0
+         ]
+      },
+      "dimensions": {
+         "height": 91.0,
+         "width": 92.0
+      },
+      "widget_class": "ImageButton"
+   },
+   {
+      "coordinates": {
+         "from": [
+            520.0,
+            898.0
+         ],
+         "to": [
+            600.0,
+            973.0
+         ]
+      },
+      "dimensions": {
+         "height": 75.0,
+         "width": 80.0
+      },
+      "widget_class": "ImageButton"
+   },
+   {
+      "coordinates": {
+         "from": [
+            106.0,
+            1171.0
+         ],
+         "to": [
+            174.0,
+            1245.0
+         ]
+      },
+      "dimensions": {
+         "height": 74.0,
+         "width": 68.0
+      },
+      "widget_class": "ImageButton"
+   },
+   {
+      "coordinates": {
+         "from": [
+            177.0,
+            1184.0
+         ],
+         "to": [
+            376.0,
+            1243.0
+         ]
+      },
+      "dimensions": {
+         "height": 59.0,
+         "width": 199.0
+      },
+      "widget_class": "Button"
+   },
+   {
+      "coordinates": {
+         "from": [
+            390.0,
+            1184.0
+         ],
+         "to": [
+            588.0,
+            1243.0
+         ]
+      },
+      "dimensions": {
+         "height": 59.0,
+         "width": 198.0
+      },
+      "widget_class": "Button"
+   }
+]

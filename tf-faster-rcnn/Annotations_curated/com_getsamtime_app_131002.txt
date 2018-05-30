@@ -1,0 +1,87 @@
+[
+   {
+      "coordinates": {
+         "from": [
+            52.0,
+            288.0
+         ],
+         "to": [
+            96.0,
+            337.0
+         ]
+      },
+      "dimensions": {
+         "height": 49.0,
+         "width": 44.0
+      },
+      "widget_class": "ImageButton"
+   },
+   {
+      "coordinates": {
+         "from": [
+            159.0,
+            386.0
+         ],
+         "to": [
+            209.0,
+            432.0
+         ]
+      },
+      "dimensions": {
+         "height": 46.0,
+         "width": 50.0
+      },
+      "widget_class": "ImageButton"
+   },
+   {
+      "coordinates": {
+         "from": [
+            380.0,
+            386.0
+         ],
+         "to": [
+            425.0,
+            432.0
+         ]
+      },
+      "dimensions": {
+         "height": 46.0,
+         "width": 45.0
+      },
+      "widget_class": "ImageButton"
+   },
+   {
+      "coordinates": {
+         "from": [
+            426.0,
+            385.0
+         ],
+         "to": [
+            463.0,
+            432.0
+         ]
+      },
+      "dimensions": {
+         "height": 47.0,
+         "width": 37.0
+      },
+      "widget_class": "ImageButton"
+   },
+   {
+      "coordinates": {
+         "from": [
+            400.0,
+            843.0
+         ],
+         "to": [
+            451.0,
+            891.0
+         ]
+      },
+      "dimensions": {
+         "height": 48.0,
+         "width": 51.0
+      },
+      "widget_class": "ImageButton"
+   }
+]

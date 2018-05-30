@@ -1,0 +1,36 @@
+[
+   {
+      "coordinates": {
+         "from": [
+            115.0,
+            516.0
+         ],
+         "to": [
+            186.0,
+            579.0
+         ]
+      },
+      "dimensions": {
+         "height": 63.0,
+         "width": 71.0
+      },
+      "widget_class": "ImageButton"
+   },
+   {
+      "coordinates": {
+         "from": [
+            443.0,
+            1205.0
+         ],
+         "to": [
+            617.0,
+            1263.0
+         ]
+      },
+      "dimensions": {
+         "height": 58.0,
+         "width": 174.0
+      },
+      "widget_class": "Button"
+   }
+]

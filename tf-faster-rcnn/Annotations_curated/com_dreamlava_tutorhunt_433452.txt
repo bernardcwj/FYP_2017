@@ -1,0 +1,104 @@
+[
+   {
+      "coordinates": {
+         "from": [
+            108.0,
+            804.0
+         ],
+         "to": [
+            240.0,
+            857.0
+         ]
+      },
+      "dimensions": {
+         "height": 53.0,
+         "width": 132.0
+      },
+      "widget_class": "Button"
+   },
+   {
+      "coordinates": {
+         "from": [
+            264.0,
+            804.0
+         ],
+         "to": [
+            394.0,
+            857.0
+         ]
+      },
+      "dimensions": {
+         "height": 53.0,
+         "width": 130.0
+      },
+      "widget_class": "Button"
+   },
+   {
+      "coordinates": {
+         "from": [
+            136.0,
+            212.0
+         ],
+         "to": [
+            167.0,
+            242.0
+         ]
+      },
+      "dimensions": {
+         "height": 30.0,
+         "width": 31.0
+      },
+      "widget_class": "CheckBox"
+   },
+   {
+      "coordinates": {
+         "from": [
+            254.0,
+            212.0
+         ],
+         "to": [
+            283.0,
+            242.0
+         ]
+      },
+      "dimensions": {
+         "height": 30.0,
+         "width": 29.0
+      },
+      "widget_class": "CheckBox"
+   },
+   {
+      "coordinates": {
+         "from": [
+            53.0,
+            297.0
+         ],
+         "to": [
+            201.0,
+            337.0
+         ]
+      },
+      "dimensions": {
+         "height": 40.0,
+         "width": 148.0
+      },
+      "widget_class": "EditText"
+   },
+   {
+      "coordinates": {
+         "from": [
+            234.0,
+            297.0
+         ],
+         "to": [
+            378.0,
+            338.0
+         ]
+      },
+      "dimensions": {
+         "height": 41.0,
+         "width": 144.0
+      },
+      "widget_class": "EditText"
+   }
+]

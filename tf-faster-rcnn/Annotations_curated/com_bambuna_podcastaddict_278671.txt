@@ -1,0 +1,172 @@
+[
+   {
+      "coordinates": {
+         "from": [
+            0.0,
+            36.0
+         ],
+         "to": [
+            67.0,
+            99.0
+         ]
+      },
+      "dimensions": {
+         "height": 63.0,
+         "width": 67.0
+      },
+      "widget_class": "ImageButton"
+   },
+   {
+      "coordinates": {
+         "from": [
+            277.0,
+            36.0
+         ],
+         "to": [
+            337.0,
+            94.0
+         ]
+      },
+      "dimensions": {
+         "height": 58.0,
+         "width": 60.0
+      },
+      "widget_class": "ImageButton"
+   },
+   {
+      "coordinates": {
+         "from": [
+            339.0,
+            36.0
+         ],
+         "to": [
+            396.0,
+            97.0
+         ]
+      },
+      "dimensions": {
+         "height": 61.0,
+         "width": 57.0
+      },
+      "widget_class": "ImageButton"
+   },
+   {
+      "coordinates": {
+         "from": [
+            397.0,
+            36.0
+         ],
+         "to": [
+            458.0,
+            98.0
+         ]
+      },
+      "dimensions": {
+         "height": 62.0,
+         "width": 61.0
+      },
+      "widget_class": "ImageButton"
+   },
+   {
+      "coordinates": {
+         "from": [
+            459.0,
+            36.0
+         ],
+         "to": [
+            505.0,
+            98.0
+         ]
+      },
+      "dimensions": {
+         "height": 62.0,
+         "width": 46.0
+      },
+      "widget_class": "ImageButton"
+   },
+   {
+      "coordinates": {
+         "from": [
+            1.0,
+            700.0
+         ],
+         "to": [
+            165.0,
+            761.0
+         ]
+      },
+      "dimensions": {
+         "height": 61.0,
+         "width": 164.0
+      },
+      "widget_class": "ImageButton"
+   },
+   {
+      "coordinates": {
+         "from": [
+            167.0,
+            700.0
+         ],
+         "to": [
+            343.0,
+            759.0
+         ]
+      },
+      "dimensions": {
+         "height": 59.0,
+         "width": 176.0
+      },
+      "widget_class": "ImageButton"
+   },
+   {
+      "coordinates": {
+         "from": [
+            345.0,
+            699.0
+         ],
+         "to": [
+            505.0,
+            759.0
+         ]
+      },
+      "dimensions": {
+         "height": 60.0,
+         "width": 160.0
+      },
+      "widget_class": "ImageButton"
+   },
+   {
+      "coordinates": {
+         "from": [
+            425.0,
+            761.0
+         ],
+         "to": [
+            503.0,
+            845.0
+         ]
+      },
+      "dimensions": {
+         "height": 84.0,
+         "width": 78.0
+      },
+      "widget_class": "ImageButton"
+   },
+   {
+      "coordinates": {
+         "from": [
+            444.0,
+            638.0
+         ],
+         "to": [
+            505.0,
+            698.0
+         ]
+      },
+      "dimensions": {
+         "height": 60.0,
+         "width": 61.0
+      },
+      "widget_class": "ImageButton"
+   }
+]

@@ -1,0 +1,104 @@
+[
+   {
+      "coordinates": {
+         "from": [
+            47.0,
+            832.0
+         ],
+         "to": [
+            464.0,
+            862.0
+         ]
+      },
+      "dimensions": {
+         "height": 30.0,
+         "width": 417.0
+      },
+      "widget_class": "SeekBar"
+   },
+   {
+      "coordinates": {
+         "from": [
+            407.0,
+            631.0
+         ],
+         "to": [
+            487.0,
+            714.0
+         ]
+      },
+      "dimensions": {
+         "height": 83.0,
+         "width": 80.0
+      },
+      "widget_class": "ImageButton"
+   },
+   {
+      "coordinates": {
+         "from": [
+            0.0,
+            46.0
+         ],
+         "to": [
+            70.0,
+            110.0
+         ]
+      },
+      "dimensions": {
+         "height": 64.0,
+         "width": 70.0
+      },
+      "widget_class": "ImageButton"
+   },
+   {
+      "coordinates": {
+         "from": [
+            430.0,
+            42.0
+         ],
+         "to": [
+            504.0,
+            113.0
+         ]
+      },
+      "dimensions": {
+         "height": 71.0,
+         "width": 74.0
+      },
+      "widget_class": "ImageButton"
+   },
+   {
+      "coordinates": {
+         "from": [
+            23.0,
+            133.0
+         ],
+         "to": [
+            482.0,
+            210.0
+         ]
+      },
+      "dimensions": {
+         "height": 77.0,
+         "width": 459.0
+      },
+      "widget_class": "EditText"
+   },
+   {
+      "coordinates": {
+         "from": [
+            411.0,
+            135.0
+         ],
+         "to": [
+            482.0,
+            210.0
+         ]
+      },
+      "dimensions": {
+         "height": 75.0,
+         "width": 71.0
+      },
+      "widget_class": "ImageButton"
+   }
+]

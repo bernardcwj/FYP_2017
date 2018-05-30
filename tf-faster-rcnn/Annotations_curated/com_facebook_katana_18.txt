@@ -1,0 +1,53 @@
+[
+   {
+      "coordinates": {
+         "from": [
+            2.0,
+            61.0
+         ],
+         "to": [
+            92.0,
+            128.0
+         ]
+      },
+      "dimensions": {
+         "height": 67.0,
+         "width": 90.0
+      },
+      "widget_class": "ImageButton"
+   },
+   {
+      "coordinates": {
+         "from": [
+            95.0,
+            61.0
+         ],
+         "to": [
+            706.0,
+            131.0
+         ]
+      },
+      "dimensions": {
+         "height": 70.0,
+         "width": 611.0
+      },
+      "widget_class": "EditText"
+   },
+   {
+      "coordinates": {
+         "from": [
+            627.0,
+            59.0
+         ],
+         "to": [
+            709.0,
+            132.0
+         ]
+      },
+      "dimensions": {
+         "height": 73.0,
+         "width": 82.0
+      },
+      "widget_class": "ImageButton"
+   }
+]

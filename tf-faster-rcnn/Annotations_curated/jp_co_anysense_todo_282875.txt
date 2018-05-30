@@ -1,0 +1,138 @@
+[
+   {
+      "coordinates": {
+         "from": [
+            67.0,
+            404.0
+         ],
+         "to": [
+            93.0,
+            435.0
+         ]
+      },
+      "dimensions": {
+         "height": 31.0,
+         "width": 26.0
+      },
+      "widget_class": "CheckBox"
+   },
+   {
+      "coordinates": {
+         "from": [
+            69.0,
+            460.0
+         ],
+         "to": [
+            93.0,
+            488.0
+         ]
+      },
+      "dimensions": {
+         "height": 28.0,
+         "width": 24.0
+      },
+      "widget_class": "CheckBox"
+   },
+   {
+      "coordinates": {
+         "from": [
+            68.0,
+            516.0
+         ],
+         "to": [
+            91.0,
+            540.0
+         ]
+      },
+      "dimensions": {
+         "height": 24.0,
+         "width": 23.0
+      },
+      "widget_class": "CheckBox"
+   },
+   {
+      "coordinates": {
+         "from": [
+            69.0,
+            567.0
+         ],
+         "to": [
+            93.0,
+            595.0
+         ]
+      },
+      "dimensions": {
+         "height": 28.0,
+         "width": 24.0
+      },
+      "widget_class": "CheckBox"
+   },
+   {
+      "coordinates": {
+         "from": [
+            67.0,
+            626.0
+         ],
+         "to": [
+            96.0,
+            651.0
+         ]
+      },
+      "dimensions": {
+         "height": 25.0,
+         "width": 29.0
+      },
+      "widget_class": "CheckBox"
+   },
+   {
+      "coordinates": {
+         "from": [
+            368.0,
+            823.0
+         ],
+         "to": [
+            422.0,
+            879.0
+         ]
+      },
+      "dimensions": {
+         "height": 56.0,
+         "width": 54.0
+      },
+      "widget_class": "ImageButton"
+   },
+   {
+      "coordinates": {
+         "from": [
+            62.0,
+            274.0
+         ],
+         "to": [
+            117.0,
+            333.0
+         ]
+      },
+      "dimensions": {
+         "height": 59.0,
+         "width": 55.0
+      },
+      "widget_class": "ImageButton"
+   },
+   {
+      "coordinates": {
+         "from": [
+            391.0,
+            276.0
+         ],
+         "to": [
+            443.0,
+            329.0
+         ]
+      },
+      "dimensions": {
+         "height": 53.0,
+         "width": 52.0
+      },
+      "widget_class": "ImageButton"
+   }
+]

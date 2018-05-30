@@ -1,0 +1,189 @@
+[
+   {
+      "coordinates": {
+         "from": [
+            370.0,
+            38.0
+         ],
+         "to": [
+            479.0,
+            100.0
+         ]
+      },
+      "dimensions": {
+         "height": 62.0,
+         "width": 109.0
+      },
+      "widget_class": "Button"
+   },
+   {
+      "coordinates": {
+         "from": [
+            392.0,
+            116.0
+         ],
+         "to": [
+            479.0,
+            181.0
+         ]
+      },
+      "dimensions": {
+         "height": 65.0,
+         "width": 87.0
+      },
+      "widget_class": "Button"
+   },
+   {
+      "coordinates": {
+         "from": [
+            230.0,
+            262.0
+         ],
+         "to": [
+            325.0,
+            326.0
+         ]
+      },
+      "dimensions": {
+         "height": 64.0,
+         "width": 95.0
+      },
+      "widget_class": "Button"
+   },
+   {
+      "coordinates": {
+         "from": [
+            335.0,
+            264.0
+         ],
+         "to": [
+            423.0,
+            326.0
+         ]
+      },
+      "dimensions": {
+         "height": 62.0,
+         "width": 88.0
+      },
+      "widget_class": "Button"
+   },
+   {
+      "coordinates": {
+         "from": [
+            0.0,
+            337.0
+         ],
+         "to": [
+            161.0,
+            412.0
+         ]
+      },
+      "dimensions": {
+         "height": 75.0,
+         "width": 161.0
+      },
+      "widget_class": "Button"
+   },
+   {
+      "coordinates": {
+         "from": [
+            162.0,
+            337.0
+         ],
+         "to": [
+            320.0,
+            413.0
+         ]
+      },
+      "dimensions": {
+         "height": 76.0,
+         "width": 158.0
+      },
+      "widget_class": "Button"
+   },
+   {
+      "coordinates": {
+         "from": [
+            322.0,
+            337.0
+         ],
+         "to": [
+            479.0,
+            414.0
+         ]
+      },
+      "dimensions": {
+         "height": 77.0,
+         "width": 157.0
+      },
+      "widget_class": "Button"
+   },
+   {
+      "coordinates": {
+         "from": [
+            2.0,
+            191.0
+         ],
+         "to": [
+            47.0,
+            237.0
+         ]
+      },
+      "dimensions": {
+         "height": 46.0,
+         "width": 45.0
+      },
+      "widget_class": "CheckBox"
+   },
+   {
+      "coordinates": {
+         "from": [
+            1.0,
+            248.0
+         ],
+         "to": [
+            46.0,
+            294.0
+         ]
+      },
+      "dimensions": {
+         "height": 46.0,
+         "width": 45.0
+      },
+      "widget_class": "CheckBox"
+   },
+   {
+      "coordinates": {
+         "from": [
+            230.0,
+            191.0
+         ],
+         "to": [
+            276.0,
+            235.0
+         ]
+      },
+      "dimensions": {
+         "height": 44.0,
+         "width": 46.0
+      },
+      "widget_class": "CheckBox"
+   },
+   {
+      "coordinates": {
+         "from": [
+            1.0,
+            117.0
+         ],
+         "to": [
+            383.0,
+            180.0
+         ]
+      },
+      "dimensions": {
+         "height": 63.0,
+         "width": 382.0
+      },
+      "widget_class": "EditText"
+   }
+]

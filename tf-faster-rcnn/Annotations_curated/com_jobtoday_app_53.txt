@@ -1,0 +1,87 @@
+[
+   {
+      "coordinates": {
+         "from": [
+            573.0,
+            382.0
+         ],
+         "to": [
+            654.0,
+            467.0
+         ]
+      },
+      "dimensions": {
+         "height": 85.0,
+         "width": 81.0
+      },
+      "widget_class": "ImageButton"
+   },
+   {
+      "coordinates": {
+         "from": [
+            110.0,
+            569.0
+         ],
+         "to": [
+            230.0,
+            669.0
+         ]
+      },
+      "dimensions": {
+         "height": 100.0,
+         "width": 120.0
+      },
+      "widget_class": "Button"
+   },
+   {
+      "coordinates": {
+         "from": [
+            241.0,
+            571.0
+         ],
+         "to": [
+            367.0,
+            671.0
+         ]
+      },
+      "dimensions": {
+         "height": 100.0,
+         "width": 126.0
+      },
+      "widget_class": "Button"
+   },
+   {
+      "coordinates": {
+         "from": [
+            380.0,
+            569.0
+         ],
+         "to": [
+            506.0,
+            667.0
+         ]
+      },
+      "dimensions": {
+         "height": 98.0,
+         "width": 126.0
+      },
+      "widget_class": "Button"
+   },
+   {
+      "coordinates": {
+         "from": [
+            519.0,
+            569.0
+         ],
+         "to": [
+            640.0,
+            667.0
+         ]
+      },
+      "dimensions": {
+         "height": 98.0,
+         "width": 121.0
+      },
+      "widget_class": "Button"
+   }
+]

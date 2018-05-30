@@ -1,0 +1,223 @@
+[
+   {
+      "coordinates": {
+         "from": [
+            0.0,
+            33.0
+         ],
+         "to": [
+            81.0,
+            122.0
+         ]
+      },
+      "dimensions": {
+         "height": 89.0,
+         "width": 81.0
+      },
+      "widget_class": "ImageButton"
+   },
+   {
+      "coordinates": {
+         "from": [
+            452.0,
+            33.0
+         ],
+         "to": [
+            539.0,
+            118.0
+         ]
+      },
+      "dimensions": {
+         "height": 85.0,
+         "width": 87.0
+      },
+      "widget_class": "ImageButton"
+   },
+   {
+      "coordinates": {
+         "from": [
+            466.0,
+            122.0
+         ],
+         "to": [
+            537.0,
+            223.0
+         ]
+      },
+      "dimensions": {
+         "height": 101.0,
+         "width": 71.0
+      },
+      "widget_class": "ImageButton"
+   },
+   {
+      "coordinates": {
+         "from": [
+            473.0,
+            232.0
+         ],
+         "to": [
+            537.0,
+            327.0
+         ]
+      },
+      "dimensions": {
+         "height": 95.0,
+         "width": 64.0
+      },
+      "widget_class": "ImageButton"
+   },
+   {
+      "coordinates": {
+         "from": [
+            468.0,
+            335.0
+         ],
+         "to": [
+            535.0,
+            429.0
+         ]
+      },
+      "dimensions": {
+         "height": 94.0,
+         "width": 67.0
+      },
+      "widget_class": "ImageButton"
+   },
+   {
+      "coordinates": {
+         "from": [
+            466.0,
+            440.0
+         ],
+         "to": [
+            538.0,
+            540.0
+         ]
+      },
+      "dimensions": {
+         "height": 100.0,
+         "width": 72.0
+      },
+      "widget_class": "ImageButton"
+   },
+   {
+      "coordinates": {
+         "from": [
+            465.0,
+            543.0
+         ],
+         "to": [
+            538.0,
+            646.0
+         ]
+      },
+      "dimensions": {
+         "height": 103.0,
+         "width": 73.0
+      },
+      "widget_class": "ImageButton"
+   },
+   {
+      "coordinates": {
+         "from": [
+            74.0,
+            702.0
+         ],
+         "to": [
+            456.0,
+            733.0
+         ]
+      },
+      "dimensions": {
+         "height": 31.0,
+         "width": 382.0
+      },
+      "widget_class": "SeekBar"
+   },
+   {
+      "coordinates": {
+         "from": [
+            0.0,
+            751.0
+         ],
+         "to": [
+            79.0,
+            817.0
+         ]
+      },
+      "dimensions": {
+         "height": 66.0,
+         "width": 79.0
+      },
+      "widget_class": "ImageButton"
+   },
+   {
+      "coordinates": {
+         "from": [
+            135.0,
+            753.0
+         ],
+         "to": [
+            199.0,
+            813.0
+         ]
+      },
+      "dimensions": {
+         "height": 60.0,
+         "width": 64.0
+      },
+      "widget_class": "ImageButton"
+   },
+   {
+      "coordinates": {
+         "from": [
+            222.0,
+            736.0
+         ],
+         "to": [
+            314.0,
+            824.0
+         ]
+      },
+      "dimensions": {
+         "height": 88.0,
+         "width": 92.0
+      },
+      "widget_class": "ImageButton"
+   },
+   {
+      "coordinates": {
+         "from": [
+            335.0,
+            751.0
+         ],
+         "to": [
+            407.0,
+            813.0
+         ]
+      },
+      "dimensions": {
+         "height": 62.0,
+         "width": 72.0
+      },
+      "widget_class": "ImageButton"
+   },
+   {
+      "coordinates": {
+         "from": [
+            455.0,
+            751.0
+         ],
+         "to": [
+            539.0,
+            815.0
+         ]
+      },
+      "dimensions": {
+         "height": 64.0,
+         "width": 84.0
+      },
+      "widget_class": "ImageButton"
+   }
+]

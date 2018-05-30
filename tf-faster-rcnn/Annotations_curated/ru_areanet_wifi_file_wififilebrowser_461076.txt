@@ -1,0 +1,104 @@
+[
+   {
+      "coordinates": {
+         "from": [
+            13.0,
+            144.0
+         ],
+         "to": [
+            305.0,
+            202.0
+         ]
+      },
+      "dimensions": {
+         "height": 58.0,
+         "width": 292.0
+      },
+      "widget_class": "EditText"
+   },
+   {
+      "coordinates": {
+         "from": [
+            314.0,
+            145.0
+         ],
+         "to": [
+            464.0,
+            203.0
+         ]
+      },
+      "dimensions": {
+         "height": 58.0,
+         "width": 150.0
+      },
+      "widget_class": "Button"
+   },
+   {
+      "coordinates": {
+         "from": [
+            15.0,
+            387.0
+         ],
+         "to": [
+            160.0,
+            446.0
+         ]
+      },
+      "dimensions": {
+         "height": 59.0,
+         "width": 145.0
+      },
+      "widget_class": "Button"
+   },
+   {
+      "coordinates": {
+         "from": [
+            178.0,
+            390.0
+         ],
+         "to": [
+            324.0,
+            446.0
+         ]
+      },
+      "dimensions": {
+         "height": 56.0,
+         "width": 146.0
+      },
+      "widget_class": "Button"
+   },
+   {
+      "coordinates": {
+         "from": [
+            13.0,
+            231.0
+         ],
+         "to": [
+            56.0,
+            276.0
+         ]
+      },
+      "dimensions": {
+         "height": 45.0,
+         "width": 43.0
+      },
+      "widget_class": "RadioButton"
+   },
+   {
+      "coordinates": {
+         "from": [
+            131.0,
+            232.0
+         ],
+         "to": [
+            178.0,
+            276.0
+         ]
+      },
+      "dimensions": {
+         "height": 44.0,
+         "width": 47.0
+      },
+      "widget_class": "RadioButton"
+   }
+]

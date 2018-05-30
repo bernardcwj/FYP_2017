@@ -1,0 +1,155 @@
+[
+   {
+      "coordinates": {
+         "from": [
+            38.0,
+            13.0
+         ],
+         "to": [
+            80.0,
+            190.0
+         ]
+      },
+      "dimensions": {
+         "height": 177.0,
+         "width": 42.0
+      },
+      "widget_class": "SeekBar"
+   },
+   {
+      "coordinates": {
+         "from": [
+            94.0,
+            13.0
+         ],
+         "to": [
+            139.0,
+            194.0
+         ]
+      },
+      "dimensions": {
+         "height": 181.0,
+         "width": 45.0
+      },
+      "widget_class": "SeekBar"
+   },
+   {
+      "coordinates": {
+         "from": [
+            153.0,
+            13.0
+         ],
+         "to": [
+            201.0,
+            197.0
+         ]
+      },
+      "dimensions": {
+         "height": 184.0,
+         "width": 48.0
+      },
+      "widget_class": "SeekBar"
+   },
+   {
+      "coordinates": {
+         "from": [
+            218.0,
+            13.0
+         ],
+         "to": [
+            262.0,
+            197.0
+         ]
+      },
+      "dimensions": {
+         "height": 184.0,
+         "width": 44.0
+      },
+      "widget_class": "SeekBar"
+   },
+   {
+      "coordinates": {
+         "from": [
+            278.0,
+            10.0
+         ],
+         "to": [
+            325.0,
+            191.0
+         ]
+      },
+      "dimensions": {
+         "height": 181.0,
+         "width": 47.0
+      },
+      "widget_class": "SeekBar"
+   },
+   {
+      "coordinates": {
+         "from": [
+            340.0,
+            14.0
+         ],
+         "to": [
+            386.0,
+            195.0
+         ]
+      },
+      "dimensions": {
+         "height": 181.0,
+         "width": 46.0
+      },
+      "widget_class": "SeekBar"
+   },
+   {
+      "coordinates": {
+         "from": [
+            402.0,
+            12.0
+         ],
+         "to": [
+            447.0,
+            197.0
+         ]
+      },
+      "dimensions": {
+         "height": 185.0,
+         "width": 45.0
+      },
+      "widget_class": "SeekBar"
+   },
+   {
+      "coordinates": {
+         "from": [
+            92.0,
+            305.0
+         ],
+         "to": [
+            397.0,
+            351.0
+         ]
+      },
+      "dimensions": {
+         "height": 46.0,
+         "width": 305.0
+      },
+      "widget_class": "SeekBar"
+   },
+   {
+      "coordinates": {
+         "from": [
+            88.0,
+            423.0
+         ],
+         "to": [
+            416.0,
+            470.0
+         ]
+      },
+      "dimensions": {
+         "height": 47.0,
+         "width": 328.0
+      },
+      "widget_class": "SeekBar"
+   }
+]

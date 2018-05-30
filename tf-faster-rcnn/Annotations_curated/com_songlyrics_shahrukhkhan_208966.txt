@@ -1,0 +1,121 @@
+[
+   {
+      "coordinates": {
+         "from": [
+            1.0,
+            0.0
+         ],
+         "to": [
+            73.0,
+            70.0
+         ]
+      },
+      "dimensions": {
+         "height": 70.0,
+         "width": 72.0
+      },
+      "widget_class": "ImageButton"
+   },
+   {
+      "coordinates": {
+         "from": [
+            472.0,
+            14.0
+         ],
+         "to": [
+            520.0,
+            64.0
+         ]
+      },
+      "dimensions": {
+         "height": 50.0,
+         "width": 48.0
+      },
+      "widget_class": "ImageButton"
+   },
+   {
+      "coordinates": {
+         "from": [
+            34.0,
+            341.0
+         ],
+         "to": [
+            100.0,
+            405.0
+         ]
+      },
+      "dimensions": {
+         "height": 64.0,
+         "width": 66.0
+      },
+      "widget_class": "ImageButton"
+   },
+   {
+      "coordinates": {
+         "from": [
+            234.0,
+            341.0
+         ],
+         "to": [
+            293.0,
+            403.0
+         ]
+      },
+      "dimensions": {
+         "height": 62.0,
+         "width": 59.0
+      },
+      "widget_class": "ImageButton"
+   },
+   {
+      "coordinates": {
+         "from": [
+            435.0,
+            338.0
+         ],
+         "to": [
+            501.0,
+            404.0
+         ]
+      },
+      "dimensions": {
+         "height": 66.0,
+         "width": 66.0
+      },
+      "widget_class": "ImageButton"
+   },
+   {
+      "coordinates": {
+         "from": [
+            21.0,
+            846.0
+         ],
+         "to": [
+            406.0,
+            875.0
+         ]
+      },
+      "dimensions": {
+         "height": 29.0,
+         "width": 385.0
+      },
+      "widget_class": "SeekBar"
+   },
+   {
+      "coordinates": {
+         "from": [
+            449.0,
+            818.0
+         ],
+         "to": [
+            527.0,
+            899.0
+         ]
+      },
+      "dimensions": {
+         "height": 81.0,
+         "width": 78.0
+      },
+      "widget_class": "ImageButton"
+   }
+]

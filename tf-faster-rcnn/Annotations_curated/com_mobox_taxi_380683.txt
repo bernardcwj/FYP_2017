@@ -1,0 +1,19 @@
+[
+   {
+      "coordinates": {
+         "from": [
+            127.0,
+            235.0
+         ],
+         "to": [
+            178.0,
+            285.0
+         ]
+      },
+      "dimensions": {
+         "height": 50.0,
+         "width": 51.0
+      },
+      "widget_class": "ImageButton"
+   }
+]

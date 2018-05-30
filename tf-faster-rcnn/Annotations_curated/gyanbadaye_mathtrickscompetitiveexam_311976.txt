@@ -1,0 +1,138 @@
+[
+   {
+      "coordinates": {
+         "from": [
+            62.0,
+            145.0
+         ],
+         "to": [
+            101.0,
+            179.0
+         ]
+      },
+      "dimensions": {
+         "height": 34.0,
+         "width": 39.0
+      },
+      "widget_class": "RadioButton"
+   },
+   {
+      "coordinates": {
+         "from": [
+            63.0,
+            183.0
+         ],
+         "to": [
+            101.0,
+            210.0
+         ]
+      },
+      "dimensions": {
+         "height": 27.0,
+         "width": 38.0
+      },
+      "widget_class": "RadioButton"
+   },
+   {
+      "coordinates": {
+         "from": [
+            62.0,
+            213.0
+         ],
+         "to": [
+            105.0,
+            243.0
+         ]
+      },
+      "dimensions": {
+         "height": 30.0,
+         "width": 43.0
+      },
+      "widget_class": "RadioButton"
+   },
+   {
+      "coordinates": {
+         "from": [
+            63.0,
+            246.0
+         ],
+         "to": [
+            103.0,
+            280.0
+         ]
+      },
+      "dimensions": {
+         "height": 34.0,
+         "width": 40.0
+      },
+      "widget_class": "RadioButton"
+   },
+   {
+      "coordinates": {
+         "from": [
+            65.0,
+            437.0
+         ],
+         "to": [
+            98.0,
+            471.0
+         ]
+      },
+      "dimensions": {
+         "height": 34.0,
+         "width": 33.0
+      },
+      "widget_class": "RadioButton"
+   },
+   {
+      "coordinates": {
+         "from": [
+            65.0,
+            471.0
+         ],
+         "to": [
+            93.0,
+            495.0
+         ]
+      },
+      "dimensions": {
+         "height": 24.0,
+         "width": 28.0
+      },
+      "widget_class": "RadioButton"
+   },
+   {
+      "coordinates": {
+         "from": [
+            65.0,
+            498.0
+         ],
+         "to": [
+            99.0,
+            535.0
+         ]
+      },
+      "dimensions": {
+         "height": 37.0,
+         "width": 34.0
+      },
+      "widget_class": "RadioButton"
+   },
+   {
+      "coordinates": {
+         "from": [
+            65.0,
+            537.0
+         ],
+         "to": [
+            102.0,
+            567.0
+         ]
+      },
+      "dimensions": {
+         "height": 30.0,
+         "width": 37.0
+      },
+      "widget_class": "RadioButton"
+   }
+]
